@@ -1,0 +1,3 @@
+[submodule "unity_motor_dt"]
+	path = unity_motor_dt
+	url = https://github.com/andriypartyshev/unity_motor_dt.git
